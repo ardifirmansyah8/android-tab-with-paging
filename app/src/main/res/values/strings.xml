@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ruma</string>
+    <string name="content_a">A</string>
+    <string name="content_b">B</string>
+    <string name="content_c">C</string>
+    <string name="content_d">D</string>
+    <string name="content_e">E</string>
+    <string name="content_f">F</string>
+</resources>
